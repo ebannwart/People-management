@@ -7,5 +7,7 @@ Attached is a notebook with codes for generating team structures, and the rank b
 
 ![image](https://github.com/ebannwart/People-management/blob/main/Operator%20Rank.png)
 
+![image](https://github.com/ebannwart/People-management/blob/main/structure5.png)
+
 
 
